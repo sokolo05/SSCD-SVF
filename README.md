@@ -1,8 +1,11 @@
 # SSCD-SVF: Semantic-Syntactic Collaborative Denoising: A Knowledge-Aware Multimodal Framework for Genomic Structural Variant Filtering
 
-<img width="1306" height="769" alt="image" src="https://github.com/sokolo05/SSCD-SVF/tree/main/image/main-2.png" />
+<p align="center">
+  <img src="image/main-2.png" width="90%" alt="SSCD-SVF Architecture">
+</p>
 
 <div align="center">
+  
 **Overall architecture of SSCD-SVF with confidence-driven collaborative denoising and multi-level knowledge-aware constraints.**
 
 </div>
